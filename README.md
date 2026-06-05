@@ -1,4 +1,4 @@
-# Hybrid AI Chatbot
+# AI Chatbot
 
 ## Project Overview
 
